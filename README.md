@@ -12,7 +12,7 @@
 
 ```
 /plugin marketplace add antonzolotukhin/madskillz
-/plugin install neuroslop@zolotukhin-skills
+/plugin install neuroslop@azmadskillz
 ```
 
 Или симлинком, чтобы правки в репе сразу подхватывались:
