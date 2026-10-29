@@ -1,0 +1,19 @@
+{
+  "name": "zolotukhin-skills",
+  "owner": {
+    "name": "Anton Zolotukhin"
+  },
+  "metadata": {
+    "description": "Скиллы для Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "neuroslop",
+      "description": "Поиск и правка нейрослопа в русском тексте: кальки, хвостовые деепричастия, тире-паузы, шаблонная риторика",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/neuroslop"]
+    }
+  ]
+}
