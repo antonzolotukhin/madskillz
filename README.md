@@ -11,7 +11,7 @@
 Через marketplace:
 
 ```
-/plugin marketplace add <url-или-путь-к-репе>
+/plugin marketplace add antonzolotukhin/madskillz
 /plugin install neuroslop@zolotukhin-skills
 ```
 
