@@ -26,3 +26,7 @@ ln -s "$PWD/skills/neuroslop" ~/.claude/skills/neuroslop
 ## Новый скилл
 
 Каталог `skills/<имя>/` с `SKILL.md` (frontmatter `name` и `description`), плюс запись в `.claude-plugin/marketplace.json`.
+
+## Лицензия
+
+[MIT](LICENSE)
